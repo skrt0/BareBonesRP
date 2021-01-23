@@ -1,5 +1,5 @@
-# DarkRP
-A roleplay gamemode for Garry's Mod.
+# Disclaimer
+skrt0 & Professor Pacifist do not own any rights to the darkrp gamemode, all rights go to FPtje. We are solely modifying the gamemode to our liking.
 
 ## Getting DarkRP
 Please use either git or the workshop.
@@ -24,10 +24,5 @@ You probably shouldn't. If you insist, use the derived gamemode that can be down
 https://github.com/FPtje/DarkRP/releases/tag/derived
 
 Just whatever you do, don't touch DarkRP's core files.
-
-## Getting help
-Please head to the official Discord!
-
-https://darkrp.page.link/discord
 
 
